@@ -5,7 +5,7 @@ desenvolvido por [Nathally Souza](https://github.com/nathyts)
 
 ### Tecnologias
 - Typescript
-
+ 
 ### Como rodar o projeto
 
 1 - Clone o repositório
